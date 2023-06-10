@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(178, 238, 238);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    color:red;
+    text-decoration: underline solid red;
+}
+
+p.para1,p.para2,p.para3,p.para4 {
+    color: black;
+}
+
+h2.mammals,h2.reptiles,h2.amphibians {
+    color:red;
+    text-decoration: underline solid red;
+}
